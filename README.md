@@ -1,6 +1,6 @@
 ### Ideas and Computers 💼💻
 
-<a ><img height="270" src="errea/../images/DtRBksGV4AAaYd0.jpeg"></a>
+<a ><img align="center" height="270" src="errea/../images/DtRBksGV4AAaYd0.jpeg"></a>
 # Hello World, I'm Eri! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 > [Portfolio]
@@ -60,6 +60,7 @@ Lofyd  🚀 <em>coming soon</em>
 ---
 
 <br />
+
 <br />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=errea&show_icons=true&theme=tokyonight)
