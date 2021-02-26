@@ -5,14 +5,17 @@
 
 > [Portfolio]
 
-<h4 align="center"> Interested in Collaborating or Donating/Sponsoring My Projects? Click <a href="https://github.com/stephenajulu/stephenajulu/blob/master/PROJECTS.md">here</a> </h3>  
+<h4 align="center"> Interested in Collaborating or Donating/Sponsoring to Projects </h3>  
+
 <h3 align="center">💼💻 What & Where i am currently working at/on/as</h3>
 <p align="center">
-<a href="https://owlsectechnologies.co.ke">OwlSec Technologies: Founder and Consultant 💼</a><br>
-<a href="https://thenoesis11.netlify.com">The Noesis: Chief Editor, Developer and Founder ✒</a><br>
+<a href="https://www.microverse.org/">Microvers💼</a><br>
+<a href="https://heroshe.com/">Heroshe</a><br>
 <a href="https://thebistronewsletter.netlify.app">The Bistro Ke Daily Newsletter: Founder, Editor in Chief and Developer ☕</a><br>
-<a href="https://saoainc.netlify.app">SAOA Media, Tech and Agriculture: Founder, Designer and Developer 💼</a><br>
-<a href="https://thenoesis11.netlify.com">The Noesis: Chief Editor, Developer and Founder ✒</a><br>
+<a href="https://saoainc.netlify.app">SAOA Media, Tech and Agriculture: Founder, Designer and Developer 💼</a>
+<br>
+<a href="https://thenoesis11.netlify.com">The Noesis: Chief Editor, Developer and Founder ✒</a>
+<br>
 <a href="https://stephenajulu.com">Open World: Freelance 🌐</a><br>
 Men's Manifest Clothing Store: Founder and Dev 🚀 <em>coming soon</em><br>
 Sepochi Co Online Store: Founder and Dev 🚀 <em>coming soon</em><br>
@@ -28,11 +31,11 @@ Lofyd  🚀 <em>coming soon</em>
 
 ### Connect with me:
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/m-bakr/)](https://www.linkedin.com/in/m-bakr/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/bkshjs)](https://twitter.com/bkshjs)
-[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://mbakr6821.medium.com/)](https://mbakr6821.medium.com/)
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/mahmoud.bakr.1460/)](https://www.facebook.com/mahmoud.bakr.1460/)
-[![Gitlab Badge](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white&link=https://gitlab.com/bksh-js)](https://gitlab.com/bksh-js)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/m-bakr/)](https://www.linkedin.com/in/eri-ngozi-okereafor/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/bkshjs)](https://twitter.com/Erreakay)
+[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://mbakr6821.medium.com/)](https://medium.com/@erreakezy)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/mahmoud.bakr.1460/)](https://web.facebook.com/EricG12)
+[![Gitlab Badge](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white&link=https://gitlab.com/bksh-js)](https://gitlab.com/erreakezy)
 
 <br />
 
@@ -71,7 +74,7 @@ Lofyd  🚀 <em>coming soon</em>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=errea&show_icons=true&theme=radical&layout=compact)](https://github.com/MahmoudBakr23/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=errea&show_icons=true&theme=radical&layout=compact)](https://github.com/errea/github-readme-stats)
 
 [Portfolio]: https://fast-wave-79751.herokuapp.com/
 [LinkedIn]: https://www.linkedin.com/in/m-bakr/
@@ -79,7 +82,7 @@ Lofyd  🚀 <em>coming soon</em>
 [Microverse]: https://www.microverse.org/
 [Facebook]: https://www.facebook.com/mahmoud.bakr.1460/
 <!--
-**errea/errea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
