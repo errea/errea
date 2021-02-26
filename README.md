@@ -3,6 +3,11 @@
 <a  align="center"><img  height="270" src="errea/../images/DtRBksGV4AAaYd0.jpeg"></a>
 # Hello World, I'm Eri! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
+> [Bio]
+
+## Path to Full Stack Web Developer
+
+
 > [Portfolio]
 
 <h4 align="center"> Interested in Collaborating or Donating/Sponsoring to Projects </h3>  
