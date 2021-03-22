@@ -36,7 +36,7 @@ BioEmergency & Biomme: Founder and Developer  🚀 <em>coming soon</em><br>
 Lofyd  🚀 <em>coming soon</em>
 </p>
 
-[**_My Resume_**](https://docs.google.com/document/d/1vzqegsCkOhJe5Zjfh2R9nH9rUryS-ZxZiOse7SZC17w/edit)
+[**_My Resume_**](https://docs.google.com/document/d/1gyFAZjvYujC7BXQuBVRd8TGLAi6AXbKJzoL55N3p3jY/edit#)
 
 ### Connect with me:
 
