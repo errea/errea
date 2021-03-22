@@ -18,7 +18,7 @@ Donating/Sponsoring to Projects </h3>
 
 <h3 align="center">💼💻 What & Where i am currently working at/on/as</h3>
 <p align="center">
-<a href="https://www.microverse.org/">Microvers💼</a><br>
+<a href="https://www.microverse.org/">Microverse💼</a><br>
 <a href="https://heroshe.com/">Heroshe</a><br>
 <a href="https://thebistronewsletter.netlify.app">The Bistro Ke Daily Newsletter: Founder, Editor in Chief and Developer ☕</a><br>
 <a href="https://saoainc.netlify.app">SAOA Media, Tech and Agriculture: Founder, Designer and Developer 💼</a>
