@@ -28,7 +28,7 @@ Donating/Sponsoring to Projects </h3>
 <a href="https://stephenajulu.com">Open World: Freelance 🌐</a><br>
 Men's Manifest Clothing Store: Founder and Dev 🚀 <em>coming soon</em><br>
 Sepochi Co Online Store: Founder and Dev 🚀 <em>coming soon</em><br>
-<a href="https://stephenajulu.com">Stephen Ajulu's Personal Portfolio, Blog and Notes Website: Owner and Developer</a>  🚀 ....<br>
+<a href="https://errea.github.io/my_portfolio/">Eri's Personal Portfolio, Blog and Notes Website: Owner and Developer</a>  🚀 ....<br>
 <a href="https://greeetincard.carrd.co">GreeetinCard: Founder, Developer and Designer</a>  🚀 <em>coming soon</em><br>
 Tech6: Founder and Developer  🚀 <em>coming soon</em><br>
 <a href="https://this1.netlify.app">T.H.I.S: Founder, Developer and Data Entry</a>  🚀 <em>coming soon</em><br>
