@@ -1,17 +1,17 @@
  `while (alive) {
             eat();
-            // sleep();
+            sleep();
             code();
 } 💼💻`
 
-<a  align="full-width"><img  height="170" width= "full-width" src="errea/../images/FB.gif"></a>
+<a  align="full-width"><img  height="170" width= "200" src="errea/../images/FB.gif"></a>
 # Hello World, I'm Eri! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 > [Bio]
 
 ## Full Stack Web Developer 👋🤓
 
-> [Portfolio]
+> [Portfolio](https://errea.github.io/my_portfolio/)
 
 <h4 align="center"> Interested in Collaborating or 
 Donating/Sponsoring to Projects </h3>  
