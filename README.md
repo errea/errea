@@ -9,7 +9,7 @@
 
 > [Bio]
 
-## Full Stack Web Developer 👋🤓
+## Full Stack Web Developer [I'm available for Hire] 👋🤓
 
 > [Portfolio](https://errea.github.io/my_portfolio/)
 
