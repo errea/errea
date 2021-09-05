@@ -1,8 +1,12 @@
- `while (alive) {
-            eat();
-            sleep();
-            code();
-} 💼💻`
+ ```javascript
+const errea = {
+  lookingFor: "Software Engineer position" || "Full-stack web developer",
+  stack: [Ruby_on_rails, JavaScript, React, Nuxt],
+  Degrees: [Petroleum Geology],
+  status: ['Currently learning and looking for a new job opportunity],
+  languages: [English, French]
+}
+```💼💻`
 
 <a  align="full-width"><img  height="170" width= "" src="errea/../images/FB.gif"></a>
 # Hello World, I'm Eri, a Full Stack Software Engineer! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">
@@ -75,13 +79,19 @@ Lofyd  🚀 <em>coming soon</em>
 
 <br />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=errea&show_icons=true&theme=tokyonight)
+![errea's GitHub stats](https://github-readme-stats.vercel.app/api?username=errea&show_icons=true&theme=tokyonight)
 
 <br />
 <br />
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=errea&repo=github-readme-stats)](https://github.com/errea/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=errea&show_icons=true&theme=radical&layout=compact)](https://github.com/errea/github-readme-stats)
 
