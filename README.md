@@ -4,9 +4,9 @@ const errea = {
   stack: [Ruby_on_rails, JavaScript, React, Nuxt],
   Degrees: [Petroleum Geology],
   status: ['Currently learning and looking for a new job opportunity],
-  languages: [English, French]
+  languages: [English, French]💼💻
 }
-```💼💻`
+```
 
 <a  align="full-width"><img  height="170" width= "" src="errea/../images/FB.gif"></a>
 # Hello World, I'm Eri, a Full Stack Software Engineer! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">
