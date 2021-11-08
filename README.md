@@ -29,22 +29,19 @@ Donating/Sponsoring to Projects </h3>
 <br>
 <a href="https://thenoesis11.netlify.com">The Noesis: Chief Editor, Developer and Founder ✒</a>
 <br>
-<a href="https://stephenajulu.com">Open World: Freelance 🌐</a><br>
-Men's Manifest Clothing Store: Founder and Dev 🚀 <em>coming soon</em><br>
-Sepochi Co Online Store: Founder and Dev 🚀 <em>coming soon</em><br>
+<a href="https://errea.github.io/my_portfolio/">My Portfolio 🌐</a><br>
+Car Hub rentals/purchase: Founder and Dev 🚀 <em>coming soon</em><br>
+Chichew Co Online Store: Founder and Dev 🚀 <em>coming soon</em><br>
 <a href="https://errea.github.io/my_portfolio/">Eri's Personal Portfolio, Blog and Notes Website: Owner and Developer</a>  🚀 ....<br>
 <a href="https://greeetincard.carrd.co">GreeetinCard: Founder, Developer and Designer</a>  🚀 <em>coming soon</em><br>
 Tech6: Founder and Developer  🚀 <em>coming soon</em><br>
 <a href="https://this1.netlify.app">T.H.I.S: Founder, Developer and Data Entry</a>  🚀 <em>coming soon</em><br>
-BioEmergency & Biomme: Founder and Developer  🚀 <em>coming soon</em><br>
-Lofyd  🚀 <em>coming soon</em>
-</p>
 
 [**_My Resume_**](https://docs.google.com/document/d/1gyFAZjvYujC7BXQuBVRd8TGLAi6AXbKJzoL55N3p3jY/edit#)
 
 ### Connect with me:
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/m-bakr/)](https://www.linkedin.com/in/eri-ngozi-okereafor/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/eri-ngozi-okereafor/)](https://www.linkedin.com/in/eri-ngozi-okereafor/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/bkshjs)](https://twitter.com/Erreakay)
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://mbakr6821.medium.com/)](https://medium.com/@erreakezy)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/mahmoud.bakr.1460/)](https://web.facebook.com/EricG12)
