@@ -1,7 +1,7 @@
  ```javascript
 const errea = {
   lookingFor: "Software Engineer position" || "Full-stack web developer",
-  stack: [Ruby_on_rails, JavaScript, React, Nuxt],
+  stack: [Ruby_on_rails, JavaScript, React, Nuxt, Vue],
   Degrees: [Petroleum Geology],
   status: ['Currently learning and looking for a new job opportunity],
   languages: [English, French]💼💻
